@@ -191,7 +191,6 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
   extra:
     - name: 'og:type'
       value: website

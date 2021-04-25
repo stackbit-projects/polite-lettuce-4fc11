@@ -195,9 +195,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Startup Theme
-      keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
       keyName: property

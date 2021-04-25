@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: dafasx
     subtitle: ssssss
-    actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
+    actions: []
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
